@@ -1,0 +1,10 @@
+ git log --pretty=oneline
+ git show tag rodriguez-rios-paso5
+git checkout master
+git merge rodriguez-rios
+d25bb52313881032b385556fa32393d49a209bf8 (HEAD -> master, rodriguez-rios) añadida respuesta ejercicio1.6
+883c093c6d640425608b917c07083d318edf02c3 (tag: rodriguez-rios-paso5) “Añadida
+5c342d06a32d2b1583354c5edc1dd4dd68110255 Quinto commit local
+6690be267c90c0f677a8deb755b4940577a85cd0 Cuarto commit local
+4b5241824eed331e1a212e8137d4317a51da4cfa tercer commit local
+129605d7a8a85127006b7ef98b060eaf43c48bc7 primer commit local
